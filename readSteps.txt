@@ -3,4 +3,9 @@ git hub desktop tool is usefull
 2. created local repository with folder.
 3. pushed it with commit.
 4. check it on server.ok
-okok11
+ok11
+
+---------
+
+created file server.js
+run it using node server.js
