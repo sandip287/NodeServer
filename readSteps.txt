@@ -2,4 +2,5 @@ git hub desktop tool is usefull
 1. created local folder
 2. created local repository with folder.
 3. pushed it with commit.
-4. check it on server.
+4. check it on server.ok
+ok
